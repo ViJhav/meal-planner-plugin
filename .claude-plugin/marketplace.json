@@ -1,0 +1,14 @@
+{
+  "name": "meal-planner",
+  "owner": {
+    "name": "Meal Planner"
+  },
+  "plugins": [
+    {
+      "name": "meal-planner",
+      "source": "./",
+      "description": "Plan, review, and log household meals from Claude through the Meal Planner web app.",
+      "version": "0.1.0"
+    }
+  ]
+}
